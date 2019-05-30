@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jierbby.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-05-30T10:15:32.752Z</updated>
+    <title>daxiong</title>
+    <updated>2019-05-30T10:18:12.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jierbby.github.io/"/>
     <link rel="self" href="https://jierbby.github.io//atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>ggh</subtitle>
     <logo>https://jierbby.github.io//images/avatar.png</logo>
     <icon>https://jierbby.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, daxiong</rights>
+    <entry>
+        <title type="html"><![CDATA[hello wo'r'l]]></title>
+        <id>https://jierbby.github.io//post/hello-worl</id>
+        <link href="https://jierbby.github.io//post/hello-worl">
+        </link>
+        <updated>2019-05-30T10:17:41.000Z</updated>
+        <content type="html"><![CDATA[<p>hello world</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://jierbby.github.io//post/hello-gridea</id>
